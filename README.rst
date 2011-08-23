@@ -10,7 +10,6 @@ example stdin).
 
 It does not read MIDI files.
 
-Author: Ole Martin Bjørndalen (ombdalen@gmail.com)
 License: MIT
 
 
@@ -85,3 +84,5 @@ Todo
 
   - implement sysex (but how should the API be?)
   - implement system messages
+
+Ole Martin Bjørndalen - ombdalen@gmail.com - http://nerdly.info/ole/
